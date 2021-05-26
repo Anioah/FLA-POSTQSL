@@ -19,10 +19,15 @@ En esta práctica se utilizaron 3 frameworks distintos, asi como una base de dat
 EJEMPLO DE UNA CONFIGURACION A LA BD:
 
 DB_CONNECTION=pg
+
 DB_HOST=127.0.0.1
+
 DB_PORT=5432
+
 DB_USER=postgres
+
 DB_PASSWORD=Anioah123
+
 DB_DATABASE=tarea1
  
  ############### LARAVEL ###############
@@ -39,10 +44,15 @@ DB_DATABASE=tarea1
 EJEMPLO DE UNA CONFIGURACION A LA BD:
 
 DB_CONNECTION=pgsql
+
 DB_HOST=127.0.0.1
+
 DB_PORT=5432
+
 DB_DATABASE=tarea1
+
 DB_USERNAME=postgres
+
 DB_PASSWORD=Anioah123
  
  ############### FLASK ###############
